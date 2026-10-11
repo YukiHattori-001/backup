@@ -1,0 +1,6 @@
+[10-Oct-2026 15:58:21 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\pos_system\_pm_check.php:1) in C:\xampp\htdocs\pos_system\app\bootstrap.php on line 9
+[10-Oct-2026 15:58:21 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in C:\xampp\htdocs\pos_system\app\bootstrap.php on line 59
+[10-Oct-2026 15:58:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\pos_system\app\bootstrap.php on line 65
+[10-Oct-2026 16:04:09 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\pos_system\_pm_test.php:1) in C:\xampp\htdocs\pos_system\app\bootstrap.php on line 9
+[10-Oct-2026 16:04:09 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in C:\xampp\htdocs\pos_system\app\bootstrap.php on line 59
+[10-Oct-2026 16:04:09 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\pos_system\app\bootstrap.php on line 65
